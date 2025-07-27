@@ -1,5 +1,7 @@
 # Here are five prompts to put you on the AI learning path to success👇
 
+**"AI Makes You Smarter If You Use It To Learn"**
+
 ## 1️⃣Harvard-level paper break down
 Prompt:
 "Read this academic article/textbook chapter on [paste excerpt or topic]. Break it down into 5 key insights. For each, give a real-world example or analogy and one question I should reflect on."
