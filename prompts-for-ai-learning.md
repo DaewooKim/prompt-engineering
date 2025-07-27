@@ -31,3 +31,6 @@ Prompt:
 "Here are my raw notes: [paste bullets]. Turn them into a short story with a clear setup, conflict, turning point, and resolution, suitable for an interview or presentation."
 👉Why it works:
 It turns information into narrative knowledge, the kind that sticks, persuades, and elevates your presence.
+
+
+[Reference link](https://www.linkedin.com/posts/genai-works_artificialintelligence-generativeai-llm-activity-7354805961154277376-r4sz?utm_source=share&utm_medium=member_desktop&rcm=ACoAABAfX0cBcPd9w9fX5dTNsijrnYhcRqaSjYc)
